@@ -22,7 +22,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/Genixcyber">Twitter</a>
+├─◈ <a href="https://Instagram.com/codie_yash_">Instagram</a>
 ├─◈ <a href="https://www.youtube.com/c/Genixcyber">YouTube</a>
 ├─◈ <a href="https://t.me/Genixcyber">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/Genixcyber">LinkedIn</a>
