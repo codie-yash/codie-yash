@@ -16,7 +16,7 @@
 ├─▣ Cyber Enthusiast
 ├─▣ Security Researcher
 ├─▣ Content Creator
-├─▣ <a href="https://Genixcyber.cf/">Official website</a>
+├─▣ <a href="https://codie-yash.github.io/codie-yash-website//">Official website</a>
 │
 └───────────────────────────────▰▰▰
 
